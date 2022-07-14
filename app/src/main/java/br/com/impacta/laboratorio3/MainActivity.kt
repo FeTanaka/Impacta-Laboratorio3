@@ -2,11 +2,7 @@ package br.com.impacta.laboratorio3
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
-import android.widget.EditText
-import android.widget.TextView
 import br.com.impacta.laboratorio3.databinding.ActivityMainBinding
-import br.com.impacta.laboratorio3.databinding.TesteBinding
 
 class MainActivity : AppCompatActivity() {
 
